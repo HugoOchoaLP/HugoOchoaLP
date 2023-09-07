@@ -4,6 +4,6 @@
 ## Hugo Ochoa Lopez Portillo
 ### Matrícula
 ## A00835999
-### CarreraÑ
+### Carrera
 ## ITC
 
